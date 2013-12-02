@@ -3,7 +3,7 @@
 #-------------------
 activate :livereload
 activate :relative_assets
-activate :direcroty_indexes
+activate :directory_indexes
 
 #-------------------
 # Page processing
